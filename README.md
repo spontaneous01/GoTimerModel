@@ -6,13 +6,13 @@ workes fine with Go 1.1
 
 ## Install
 
-`go get github.com/spontaneous01/go-timer-model`
+`go get github.com/spontaneous01/GoTimerModel`
 
 ## Import
 
-`import "github.com/spontaneous01/go-timer-model/timerModel" `  
+`import "github.com/spontaneous01/GoTimerModel" `  
 or use alias  
-`import tm "github.com/spontaneous01/go-timer-model/timerModel"`  
+`import timerModel "github.com/spontaneous01/GoTimerModel"`  
 
 ## Usage
 
